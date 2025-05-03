@@ -23,3 +23,8 @@ Week 53 (31st Dec) WoW change:
 • TX, NY & CA is contributing to 68% 
 • Overall Activation rate is 57.5% 
 • Overall Delinquent rate is 6.06% Note: You can add more insights 9
+
+![image](https://github.com/user-attachments/assets/479451b9-0014-4b5b-ae49-ce6e738b3fa5)
+
+![image](https://github.com/user-attachments/assets/f92ad1d8-4de3-422b-ba52-bef3ef821d3b)
+
