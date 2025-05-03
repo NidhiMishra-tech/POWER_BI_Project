@@ -9,7 +9,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 •	Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 #### Skills used 
-SQL Power BI, Analytics, DAX query, Data Processing 
+SQL, Power BI, Analytics, DAX query, Data Processing 
 
 #### Project Insights
 Week 53 (31st Dec) WoW change: 
